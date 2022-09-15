@@ -67,6 +67,9 @@ function Form(props) {
         </div>
       </div>
       <div className="new-expense__actions">
+        <button type="button" onClick={props.onStopping}>
+          Cancel
+        </button>
         <button type="submit">Dodaj trosak</button>
       </div>
     </form>
