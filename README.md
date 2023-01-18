@@ -1,3 +1,3 @@
-Before running project, you have to type "npm install" in your terminal.
+Before running project, you have to run "npm install".
 
-Project done while learning react.
+Project for trackinig your expenses done while learning react.
